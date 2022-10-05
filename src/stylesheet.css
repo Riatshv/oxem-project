@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Nekst Semi';
+    src:
+        url('./fonts/Nekst/Nekst-SemiBold.woff2') format('woff2'),
+        url('./fonts/Nekst/Nekst-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nekst';
+    src:
+        url('./fonts/Nekst/Nekst-Regular.woff2') format('woff2'),
+        url('./fonts/Nekst/Nekst-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nekst';
+    src: 
+        url('./fonts/Nekst/Nekst-Black.woff2') format('woff2'),
+        url('./fonts/Nekst/Nekst-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nekst';
+    src:
+        url('./fonts/Nekst/Nekst-Thin.woff2') format('woff2'),
+        url('./fonts/Nekst/Nekst-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nekst';
+    src:
+        url('./fonts/Nekst/Nekst-Bold.woff2') format('woff2'),
+        url('./fonts/Nekst/Nekst-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nekst';
+    src:
+        url('./fonts/Nekst/Nekst-Medium.woff2') format('woff2'),
+        url('./fonts/Nekst/Nekst-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nekst';
+    src:
+        url('./fonts/Nekst/Nekst-Light.woff2') format('woff2'),
+        url('./fonts/Nekst/Nekst-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src:
+        url('./fonts/Gilroy/Gilroy-Regular.woff2') format('woff2'),
+        url('./fonts/Gilroy/Gilroy-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

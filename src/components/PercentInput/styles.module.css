@@ -1,0 +1,46 @@
+.percentBlock {
+    display: flex;
+    width: calc(2em + 13px*2);
+    justify-content: center;
+    background-color: #EBEBEC;
+    padding: 13px 13px;
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    transform: translateX(16px);
+    border-radius: 15px;
+}
+
+.block {
+    display: flex;
+    height: 100%;
+}
+
+
+.inputPercent {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+
+.rubleUnit {
+    margin-left: 10px;
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .percentBlock {
+        width: calc(2em + 9px*2);
+        padding: 9px 9px;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+    .percentBlock {
+        position: relative;
+    }
+
+}
+

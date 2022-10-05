@@ -1,0 +1,22 @@
+.gridContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 32px;
+    grid-row-gap: 44px;
+    color: #575757
+}
+
+@media only screen and (max-width: 1024px) {
+    .gridContainer {
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 0;
+        grid-row-gap: 0;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .gridContainer {
+        color: black
+    }
+}
