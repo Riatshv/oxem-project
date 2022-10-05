@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/oxem-project/static/css/main.04a9cca6.css",
+    "main.js": "/oxem-project/static/js/main.b5335598.js",
+    "static/media/Nekst-Bold.woff": "/oxem-project/static/media/Nekst-Bold.4e1b6942fd8ba22797ca.woff",
+    "static/media/Nekst-SemiBold.woff": "/oxem-project/static/media/Nekst-SemiBold.98ae396a1e18eead2a95.woff",
+    "static/media/Nekst-Regular.woff": "/oxem-project/static/media/Nekst-Regular.4d8de93b27c5bd7e1f9b.woff",
+    "static/media/Nekst-Black.woff": "/oxem-project/static/media/Nekst-Black.f0e2921efcf1112b1749.woff",
+    "static/media/Nekst-Light.woff": "/oxem-project/static/media/Nekst-Light.a173634568fb93378689.woff",
+    "static/media/Nekst-Medium.woff": "/oxem-project/static/media/Nekst-Medium.35ba2ca64c36e7a5877a.woff",
+    "static/media/Nekst-Thin.woff": "/oxem-project/static/media/Nekst-Thin.53a6444890c1dfee75ae.woff",
+    "static/media/Nekst-Bold.woff2": "/oxem-project/static/media/Nekst-Bold.725d4dc33feb1dc85dde.woff2",
+    "static/media/Nekst-SemiBold.woff2": "/oxem-project/static/media/Nekst-SemiBold.39cfcbd6eae7a5c7d522.woff2",
+    "static/media/Nekst-Regular.woff2": "/oxem-project/static/media/Nekst-Regular.9e71aafe8ea6d32f9b41.woff2",
+    "static/media/Nekst-Black.woff2": "/oxem-project/static/media/Nekst-Black.44814bfd3ba4a266cf1d.woff2",
+    "static/media/Nekst-Light.woff2": "/oxem-project/static/media/Nekst-Light.c5331802f10037738ef4.woff2",
+    "static/media/Nekst-Medium.woff2": "/oxem-project/static/media/Nekst-Medium.58c6c33bedd14434d308.woff2",
+    "static/media/Nekst-Thin.woff2": "/oxem-project/static/media/Nekst-Thin.85d5bc1cb20f60719a28.woff2",
+    "static/media/Gilroy-Regular.woff": "/oxem-project/static/media/Gilroy-Regular.ebe86c0337572553acea.woff",
+    "static/media/Gilroy-Regular.woff2": "/oxem-project/static/media/Gilroy-Regular.f6c9931fabe5a6eb3307.woff2",
+    "index.html": "/oxem-project/index.html",
+    "main.04a9cca6.css.map": "/oxem-project/static/css/main.04a9cca6.css.map",
+    "main.b5335598.js.map": "/oxem-project/static/js/main.b5335598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a9cca6.css",
+    "static/js/main.b5335598.js"
+  ]
+}
