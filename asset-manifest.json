@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/oxem-project/static/css/main.04a9cca6.css",
-    "main.js": "/oxem-project/static/js/main.b5335598.js",
+    "main.css": "/oxem-project/static/css/main.1d873f18.css",
+    "main.js": "/oxem-project/static/js/main.c41101d4.js",
     "static/media/Nekst-Bold.woff": "/oxem-project/static/media/Nekst-Bold.4e1b6942fd8ba22797ca.woff",
     "static/media/Nekst-SemiBold.woff": "/oxem-project/static/media/Nekst-SemiBold.98ae396a1e18eead2a95.woff",
     "static/media/Nekst-Regular.woff": "/oxem-project/static/media/Nekst-Regular.4d8de93b27c5bd7e1f9b.woff",
@@ -19,11 +19,11 @@
     "static/media/Gilroy-Regular.woff": "/oxem-project/static/media/Gilroy-Regular.ebe86c0337572553acea.woff",
     "static/media/Gilroy-Regular.woff2": "/oxem-project/static/media/Gilroy-Regular.f6c9931fabe5a6eb3307.woff2",
     "index.html": "/oxem-project/index.html",
-    "main.04a9cca6.css.map": "/oxem-project/static/css/main.04a9cca6.css.map",
-    "main.b5335598.js.map": "/oxem-project/static/js/main.b5335598.js.map"
+    "main.1d873f18.css.map": "/oxem-project/static/css/main.1d873f18.css.map",
+    "main.c41101d4.js.map": "/oxem-project/static/js/main.c41101d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.04a9cca6.css",
-    "static/js/main.b5335598.js"
+    "static/css/main.1d873f18.css",
+    "static/js/main.c41101d4.js"
   ]
 }
